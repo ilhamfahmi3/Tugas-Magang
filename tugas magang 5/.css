@@ -1,0 +1,40 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.container{
+    width: 900px;
+    background-color:gray;
+}
+.container .header{
+    background-color: yellow;
+    height: 180px;
+    padding-left:20px;
+    padding-top: 20px;
+}
+.container .menu{
+    background-color: red;
+    height: 65px;
+    padding-left:20px;
+    padding-top: 5px;
+}
+.container .main,.sidebar{
+    display: inline-block;
+    height: 600px;
+    padding-left: 2%;
+}
+.container .sidebar{
+    background-color: orange;
+    width:28%;
+}
+.container .main{
+    background-color: lightskyblue;
+    width: 68%;
+}
+.container .footer{
+    background-color: green;
+    height: 90px;
+    padding-left:20px;
+    padding-top: 10px;
+}

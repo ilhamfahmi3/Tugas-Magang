@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: green
+}
+button{
+    background-color: blue;
+    color: white;
+}
+form{
+    text-align: left;
+}

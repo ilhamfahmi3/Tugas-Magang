@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    text-align: center;
+    border-color: black;
+}
+thead{
+    color: white;
+    background-color: rgb(216, 0, 0)
+
+}

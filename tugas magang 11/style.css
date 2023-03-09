@@ -1,0 +1,16 @@
+.gambar{
+    width: 100%;
+    height: 400px;
+    background-image: url(/img/bali.jpg);
+    background-size:cover;
+    background-position: 0 -50px;
+}
+
+.navlink a{
+    text-decoration: none;
+    color: #333;
+}
+p{
+    text-indent: 20px;
+    text-align: justify;
+}
